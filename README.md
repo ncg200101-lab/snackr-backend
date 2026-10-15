@@ -1,4 +1,4 @@
-# Spring Boot Example
+# The Backend for Snackr
 
 `/GET /POST /PUT /DELETE` APIs for managing cakes.
 
